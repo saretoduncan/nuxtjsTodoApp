@@ -115,4 +115,4 @@ main .tasks .task button.delete {
 
 .tasks .task.is-complete .content {
 	text-decoration: line-through;
-}
+} 
